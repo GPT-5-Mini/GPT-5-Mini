@@ -7,16 +7,15 @@ Hi there! I'm **BarricadeBandit**, and this is my personal GitHub profile reposi
 ## About Me
 - I’m currently working on: **![Rambley.net](https://www.Rambley.net) A Website where me and a ![Friend](https://github.com/senkoz) share cool/useful (some not so useful) projects we have made**
 - Feel free to ask me about: **Game Server Hosting, Gaming, Discord Bots, NodeJS, Pterodactyl Panel and TCAdmin Panel**
-- I'm in ![SaphiraTeam](https://github.com/SaphiraTeam) and I am a **Developer** here
-- I'm a Co-Founder at ![RuntzServers](https://runtzservers.com) a Rust Server group with a 10x server and a Battlefield server.
-- A fun fact about me: **Idk**
+- Developer @ ![Hoppou.AI](https://hoppou.ai) AI characters and stuff
+- I'm a Co-Founder at ![RuntzServers](https://runtzservers.com) a Rust Server group with a 10x server
 
 ---
 
 ## Technologies & Tools
-- **Languages:** NodeJS, JavaScript, HTML, CSS and a bit of Python
+- **Languages:** NodeJS, JavaScript, HTML, CSS and Python
 - **Frameworks & Libraries:** React, Express, Discord.js, GenAI/Google Generative AI
-- **Tools & Platforms:** VSCode, Pterodactyl Panel, TCAdmin Panel.
+- **Tools & Platforms:** VSCode, Pterodactyl Panel.
 
 ---
 
@@ -39,5 +38,3 @@ Hi there! I'm **BarricadeBandit**, and this is my personal GitHub profile reposi
 - [Personal Website](https://barricade.dev)
 
 ---
-
-Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.
