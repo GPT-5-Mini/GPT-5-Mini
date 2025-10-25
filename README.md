@@ -5,9 +5,8 @@ Hi there! I'm **BarricadeBandit**, and this is my personal GitHub profile reposi
 ---
 
 ## About Me
-- I’m currently working on: **![Rambley.net](https://www.Rambley.net) A Website where me and a ![Friend](https://github.com/senkoz) share cool/useful (some not so useful) projects we have made**
-- Feel free to ask me about: **Game Server Hosting, Gaming, Discord Bots, NodeJS, Pterodactyl Panel and TCAdmin Panel**
-- Developer @ ![Hoppou.AI](https://hoppou.ai) AI characters and stuff
+- Feel free to ask me about: **Game Server Hosting, Gaming, Discord Bots, NodeJS, Pterodactyl Panel**
+- Developer/Co-Founder @ ![Hoppou.AI](https://hoppou.ai) AI characters and stuff
 - I'm a Co-Founder at ![RuntzServers](https://runtzservers.com) a Rust Server group with a 10x server
 
 ---
