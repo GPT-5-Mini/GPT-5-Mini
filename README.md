@@ -19,9 +19,9 @@ Hi there! I'm **BarricadeBandit**, and this is my personal GitHub profile reposi
 ---
 
 ## GitHub Stats
-![Firnen08's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Firnen08&show_icons=true&theme=radical)
+![Firnen08's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GPT-5-Mini&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Firnen08&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GPT-5-Mini&layout=compact&theme=radical)
 
 ---
 
